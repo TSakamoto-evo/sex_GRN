@@ -30,7 +30,7 @@ intro   : generation when the deleterious allele was introduced (t1 + 500001)
 purged  : generation when the deleterious allele was purged (t2 + 1)  
 
 `plot_fig.R`:
-Code to make Figure 6 and Extended Figure 6.
+Code to make Figure 6 and Extended Data Figure 6.
 
 `plot_fig_all.R`:
-Code to make Extended Figure 7. 
+Code to make Extended Data Figure 7. 
