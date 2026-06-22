@@ -5,5 +5,5 @@ Codes for simulations and visualization.
 `single_run`: A single run simulation of the basic setting.  
 `multiple_run`: Codes for multiple runs with simple recording.  
 `degeneration`: Codes for the model with deleterious mutations.  
-`invasion1`: Codes for invasion analyses after homogenizing background. 
+`invasion1`: Codes for invasion analyses after homogenizing background.  
 `invasion2`: Codes for invasion analyses without homogenizing background. 
